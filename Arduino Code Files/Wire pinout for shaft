@@ -1,0 +1,16 @@
+The colour of                  where the wire goes.
+the wire out of 
+the shaft          
+
+
+Yellow        5V out
+Blue          Pin 13
+Green         pin 11
+Red           Pin 10
+Black         Ground
+
+In1 white     pin 5
+In2           pin 6
+In3           Pin 7
+In4           Pin 8
+5V and ground for servo and stepper from supply.
