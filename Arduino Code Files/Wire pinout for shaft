@@ -14,3 +14,9 @@ In2           pin 6
 In3           Pin 7
 In4           Pin 8
 5V and ground for servo and stepper from supply.
+
+Servo motor
+
+Red wire out fo servo     Vcc
+Brown wire                Ground
+Yellow Wire               Control
